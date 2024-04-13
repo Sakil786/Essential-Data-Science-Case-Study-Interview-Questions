@@ -8,3 +8,8 @@
 |Corporate-Presentations-Synthetic-Data-Generation-Using-LLM   | [link ](https://github.com/Sakil786/Corporate-Presentations-Synthetic-Data-Generation-Using-LLM "link ") |
 |AI-Powered-Text-Classifier-Harnessing-Large-Language-Models-for-Precise-Data-Categorization   | [link ](https://github.com/Sakil786/AI-Powered-Text-Classifier-Harnessing-Large-Language-Models-for-Precise-Data-Categorization "link ") |
 |multi-class-sentiment-analysis-model-using-LLM   | [link ](https://github.com/Sakil786/multi-class-sentiment-analysis-model-using-LLM "link ") |
+
+## Machine Learning
+| Case Study  |Solution Link   |
+| :------------: | :------------: |
+|Reducing-Credit-Default-Rate-at Bank   | [link ](https://github.com/Sakil786/Reducing-Credit-Default-Rate-at-ABC-Bank- "link ") |
