@@ -13,3 +13,10 @@
 | Case Study  |Solution Link   |
 | :------------: | :------------: |
 |Reducing-Credit-Default-Rate-at Bank   | [link ](https://github.com/Sakil786/Reducing-Credit-Default-Rate-at-ABC-Bank- "link ") |
+|Netflix-Pricing-for-Consumer-Subscription   | [link ](https://github.com/Sakil786/Netflix-Pricing-for-Consumer-Subscription "link ") |
+|Teaching-Assistant-Evaluation   | [link ](https://github.com/Sakil786/Teaching-Assistant-Evaluation- "link ") |
+|Calculating-credit-worthiness-for-rural-India   | [link ](https://github.com/Sakil786/Calculating-credit-worthiness-for-rural-India- "link ") |
+|Domain-Specific-Keyword-Extraction-using-Spacy   | [link ](https://github.com/Sakil786/Domain-Specific-Keyword-Extraction-using-Spacy "link ") |
+|Early-Detection-of-Sepsis-Using-Physiological-Data   | [link ](https://github.com/Sakil786/Early-Detection-of-Sepsis-Using-Physiological-Data- "link ") |
+|Data-gathering-and-visualization-scrapping-reviews-from-google-play-store-for-a-given-app   | [link ](https://github.com/Sakil786/Data-gathering-and-visualization-scrapping-reviews-from-google-play-store-for-a-given-app "link ") |
+
