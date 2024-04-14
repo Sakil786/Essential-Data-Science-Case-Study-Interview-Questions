@@ -12,6 +12,7 @@
 ## Machine Learning
 | Case Study  |Solution Link   |
 | :------------: | :------------: |
+|customers-satisfaction-with-the-hotel-services   | [link ](https://github.com/Sakil786/customers-satisfaction-with-the-hotel-services.- "link ") |
 |Reducing-Credit-Default-Rate-at Bank   | [link ](https://github.com/Sakil786/Reducing-Credit-Default-Rate-at-ABC-Bank- "link ") |
 |Netflix-Pricing-for-Consumer-Subscription   | [link ](https://github.com/Sakil786/Netflix-Pricing-for-Consumer-Subscription "link ") |
 |Teaching-Assistant-Evaluation   | [link ](https://github.com/Sakil786/Teaching-Assistant-Evaluation- "link ") |
